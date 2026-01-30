@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --palette-light: #e0fbfc;
+  --palette-light-muted: #c2dfe3;
+  --palette-muted: #9db4c0;
+  --palette-dark: #5c6b73;
+  --palette-dark-deep: #253237;
+}
+
+body {
+  @apply bg-palette-light text-palette-dark-deep antialiased;
+}
+
+html {
+  scroll-behavior: smooth;
+}
