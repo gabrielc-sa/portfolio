@@ -3,8 +3,8 @@
 import { useState, FormEvent } from "react";
 
 const WEB3FORMS_API = "https://api.web3forms.com/submit";
-const LINKEDIN_URL = "https://www.linkedin.com/in/your-profile";
-const EMAIL = "your.email@example.com";
+const LINKEDIN_URL = "https://www.linkedin.com/in/gabrielc-sa";
+const EMAIL = "gabrielctnhpro@gmail.com";
 
 type FormResult = "idle" | "loading" | "success" | "error";
 

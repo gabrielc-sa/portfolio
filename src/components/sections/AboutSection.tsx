@@ -12,7 +12,7 @@ export function AboutSection() {
           <p className="text-lg leading-relaxed">
             I work at the intersection of architecture, product, and engineering — shaping AI, data, and software initiatives from strategy to delivery.
           </p>
-          <p className="leading-relaxed">
+          <p className="text-lg leading-relaxed">
             As a Solution Architect, I design scalable systems and technical roadmaps. As a Product Manager, I prioritize outcomes, align stakeholders, and ship value. My focus areas include AI/ML adoption, data platforms, and enterprise software.
           </p>
         </div>
